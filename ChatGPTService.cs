@@ -87,50 +87,10 @@ using Newtonsoft.Json.Linq;
                 }
             }
 
-        //private string GetChatGPTResponseOffline(string message)
-        //{
-        //    using (SqlConnection connection = new SqlConnection(_connectionString))
-        //    {
 
-        //    SqlCommand command = new SqlCommand("SELECT TOP 1 Response FROM Response WHERE Prompt LIKE '%' + @Prompt + '%'", connection);
-        //    //  SqlCommand command = new SqlCommand("GetResponseByPrompt", connection);
-        //    //  command.CommandType = CommandType.StoredProcedure;
-        //    command.Parameters.AddWithValue("@Prompt", message);
-
-        //        connection.Open();
-        //        var result = command.ExecuteScalar();
-        //        if (result != null)
-        //        {
-        //            return result.ToString();
-        //        }
-        //        else
-        //        {
-        //            return "لا توجد استجابة محفوظة مسبقًا لهذا الاستعلام.";
-        //        }
-        //    }
-        //}
 
             private string GetChatGPTResponseOffline(string message)
             {
-            //using (SqlConnection connection = new SqlConnection(_connectionString))
-            //{
-
-            //    SqlCommand command = new SqlCommand("GetResponseByPrompt", connection);
-            //    command.CommandType = CommandType.StoredProcedure;
-            //    command.Parameters.AddWithValue("@Prompt", message);
-
-            //    connection.Open();
-            //    var result = command.ExecuteScalar();
-            //    if (result != null)
-            //    {
-            //        return result.ToString();
-            //    }
-            //    else
-            //    {
-            //        return "لا توجد استجابة محفوظة مسبقًا لهذا الاستعلام.";
-            //    }
-            //}
-
                 using (SqlConnection connection = new SqlConnection(_connectionString))
                 {
                     SqlCommand command = new SqlCommand("SearchResponses", connection);
