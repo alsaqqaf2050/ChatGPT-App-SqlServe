@@ -1,0 +1,15 @@
+C:\Users\EBH\source\repos\ChatGPTAppSqlServerAdvWithQuery\ChatGPTAppSqlServerAdvWithQuery\bin\Debug\ChatGPTAppSqlServerAdvWithQuery.exe.config
+C:\Users\EBH\source\repos\ChatGPTAppSqlServerAdvWithQuery\ChatGPTAppSqlServerAdvWithQuery\bin\Debug\ChatGPTAppSqlServerAdvWithQuery.exe
+C:\Users\EBH\source\repos\ChatGPTAppSqlServerAdvWithQuery\ChatGPTAppSqlServerAdvWithQuery\bin\Debug\ChatGPTAppSqlServerAdvWithQuery.pdb
+C:\Users\EBH\source\repos\ChatGPTAppSqlServerAdvWithQuery\ChatGPTAppSqlServerAdvWithQuery\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\EBH\source\repos\ChatGPTAppSqlServerAdvWithQuery\ChatGPTAppSqlServerAdvWithQuery\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EBH\source\repos\ChatGPTAppSqlServerAdvWithQuery\ChatGPTAppSqlServerAdvWithQuery\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EBH\source\repos\ChatGPTAppSqlServerAdvWithQuery\ChatGPTAppSqlServerAdvWithQuery\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\EBH\source\repos\ChatGPTAppSqlServerAdvWithQuery\ChatGPTAppSqlServerAdvWithQuery\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\EBH\source\repos\ChatGPTAppSqlServerAdvWithQuery\ChatGPTAppSqlServerAdvWithQuery\obj\Debug\ChatGPTAppSqlServerAdvWithQuery.csprojAssemblyReference.cache
+C:\Users\EBH\source\repos\ChatGPTAppSqlServerAdvWithQuery\ChatGPTAppSqlServerAdvWithQuery\obj\Debug\ChatGPTAppSqlServerAdvWithQuery.Properties.Resources.resources
+C:\Users\EBH\source\repos\ChatGPTAppSqlServerAdvWithQuery\ChatGPTAppSqlServerAdvWithQuery\obj\Debug\ChatGPTAppSqlServerAdvWithQuery.csproj.GenerateResource.cache
+C:\Users\EBH\source\repos\ChatGPTAppSqlServerAdvWithQuery\ChatGPTAppSqlServerAdvWithQuery\obj\Debug\ChatGPTAppSqlServerAdvWithQuery.csproj.CopyComplete
+C:\Users\EBH\source\repos\ChatGPTAppSqlServerAdvWithQuery\ChatGPTAppSqlServerAdvWithQuery\obj\Debug\ChatGPTAppSqlServerAdvWithQuery.exe
+C:\Users\EBH\source\repos\ChatGPTAppSqlServerAdvWithQuery\ChatGPTAppSqlServerAdvWithQuery\obj\Debug\ChatGPTAppSqlServerAdvWithQuery.pdb
+C:\Users\EBH\source\repos\ChatGPTAppSqlServerAdvWithQuery\ChatGPTAppSqlServerAdvWithQuery\obj\Debug\ChatGPTAppSqlServerAdvWithQuery.Form1.resources
